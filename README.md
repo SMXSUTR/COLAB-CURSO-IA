@@ -1,5 +1,5 @@
 # README.md
-# Iris Species Classifier App
+# Iris Species Classifier App Santiago Diaz y Samuel COrrea
 Aplicación local desarrollada en Python siguiendo arquitectura modular.
 
 ### Requisitos:
